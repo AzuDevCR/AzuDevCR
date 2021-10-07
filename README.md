@@ -2,7 +2,7 @@
 - 👀 Me interesa el desarrollo software
 - 🌱 Actualmente estoy estudiando Python
 - 💞️ Por el momento solo estoy tratando de materializar ideas locas que tengo para mejorar mi experiencia programando
-- 📫 Me podés en mi correo: azudevcr@gmail.com
+- 📫 Me podés contactar en mi correo: azudevcr@gmail.com
 ###### --------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @AzuDevCR
 - 👀 I’m interested in software development
