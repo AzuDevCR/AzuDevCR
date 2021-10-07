@@ -1,7 +1,7 @@
 - 👋 Hola, yo soy @AzuDevCR
-- 👀 Me interesa el desarrollo de software
+- 👀 Me interesa el desarrollo software
 - 🌱 Actualmente estoy estudiando Python
-- 💞️ Por el momento solo estoy tratando de materializar ideas locas que tengo para mejoras mi experiencia programando
+- 💞️ Por el momento solo estoy tratando de materializar ideas locas que tengo para mejorar mi experiencia programando
 - 📫 Me podés contactar aquí en GitHub o en mi correo: azudevcr@gmail.com
 ###### --------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @AzuDevCR
