@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @AzuDevCR
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python
-- 💞️ In this moment I am only trying to materialize crazy ideas that I have in order to improve my coding XP 
+- 💞️ In this moment I am just trying to materialize crazy ideas that I have in order to improve my coding XP 
 - 📫 You can contact me at: azudevcr@gmail.com
 
 <!---
