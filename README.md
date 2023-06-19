@@ -1,13 +1,13 @@
 - 👋 Hola, yo soy @AzuDevCR
 - 👀 Me interesa el desarrollo software
-- 🌱 Actualmente estoy estudiando Python: Tengo que actualizar esto. En el momento que conocí Unity quedé enamorado. Fin.
-- 💞️ Por el momento solo estoy tratando de materializar ideas locas que tengo para mejorar mi experiencia programando
+- 🌱 Amo Unity
+- 💞️ Por el momento estoy estudiando en la plataforma de Unity Learn
 - 📫 Me podés contactar en mi correo: azudevcr@gmail.com
 ###### --------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @AzuDevCR
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Python. I need to update this. The moment I came across Unity I felt in love with it. Fin.
-- 💞️ In this moment I am just trying to materialize crazy ideas that I have in order to improve my coding XP 
+- 🌱 I love Unity
+- 💞️ In this moment I am studying at Unity Learn's platform
 - 📫 You can contact me at: azudevcr@gmail.com
 
 <!---
